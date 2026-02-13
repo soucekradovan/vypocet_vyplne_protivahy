@@ -1,0 +1,5 @@
+{
+  "name": "Kalkulátor Protizávaží Výtahu",
+  "description": "Profesionální nástroj pro výpočet složení materiálů protizávaží výtahu na základě objemu, cílové váhy a priorit materiálů (např. beton, ocel).",
+  "requestFramePermissions": []
+}
